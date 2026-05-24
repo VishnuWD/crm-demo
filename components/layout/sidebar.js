@@ -34,7 +34,7 @@ export default function Sidebar() {
           <div className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-400">
             Premium CRM
           </div>
-          <div className="mt-2 font-serif text-3xl font-semibold tracking-tight text-slate-950">
+          <div className="mt-2 font-semibold text-3xl font-semibold tracking-tight text-slate-950">
             Estate
           </div>
           <p className="mt-2 text-sm leading-6 text-slate-500">

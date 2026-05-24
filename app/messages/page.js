@@ -59,7 +59,7 @@ export default function MessagesPage() {
             <div className="text-xs font-semibold uppercase tracking-[0.25em] text-slate-400">
               Conversation preview
             </div>
-            <div className="mt-3 font-serif text-3xl font-semibold tracking-tight text-slate-950">
+            <div className="mt-3 font-semibold text-3xl font-semibold tracking-tight text-slate-950">
               {selected.subject}
             </div>
             <div className="mt-2 text-sm text-slate-500">From {selected.from}</div>

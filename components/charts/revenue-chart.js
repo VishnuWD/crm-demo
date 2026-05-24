@@ -14,7 +14,7 @@ export default function RevenueChart({ data }) {
   return (
     <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
       <div className="mb-5">
-        <h3 className="font-serif text-2xl font-semibold tracking-tight text-slate-950">
+        <h3 className="font-semibold text-2xl font-semibold tracking-tight text-slate-950">
           Revenue trend
         </h3>
         <p className="mt-1 text-sm text-slate-500">

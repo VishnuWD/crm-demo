@@ -7,7 +7,7 @@ export default function Topbar({ title, subtitle, action }) {
     <header className="sticky top-0 z-20 border-b border-slate-200/80 bg-white/70 backdrop-blur-xl">
       <div className="mx-auto flex max-w-[1600px] items-center justify-between gap-4 px-4 py-5 sm:px-6 lg:px-10">
         <div>
-          <h1 className="font-serif text-3xl font-semibold tracking-tight text-slate-950">
+          <h1 className="font-semibold text-3xl font-semibold tracking-tight text-slate-950">
             {title}
           </h1>
           <p className="mt-1 text-sm text-slate-500">{subtitle}</p>

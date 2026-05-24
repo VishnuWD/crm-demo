@@ -14,7 +14,7 @@ export default function OccupancyChart({ data }) {
   return (
     <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
       <div className="mb-5">
-        <h3 className="font-serif text-2xl font-semibold tracking-tight text-slate-950">
+        <h3 className="font-semibold text-2xl font-semibold tracking-tight text-slate-950">
           Property occupancy
         </h3>
         <p className="mt-1 text-sm text-slate-500">
